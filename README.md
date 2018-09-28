@@ -1,2 +1,3 @@
-# ft_ptintf
-ft_printf 42 - Project #4 (Algorithms Branch) An implementation of libc's printf function.  Purpose The goal of this project is to recode printf function so that you are able to use it in later projects. This project also introduces you to new concepts such as variadic functions and arrays of function pointers. The only allowed functions and system calls for this project are: write, malloc, free, and the functions of stdarg(3)  The ft_printf function is prototyped as follows:  int ft_printf(const char *format, ...);
+ft_ printf
+
+This is a Wethinkcode_ project under the UNIX Module 
